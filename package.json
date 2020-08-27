@@ -1,0 +1,16 @@
+{
+  "name": "davinci-resolve-marker-to-timestamps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "csv-parser": "^2.3.3"
+  }
+}
