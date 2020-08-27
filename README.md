@@ -10,6 +10,7 @@ Just run `npm i`
     * Add markers to the timeline at specific timestamps
     * In the top left corner click **Edit Index** next to **Effects Library** in order to expose the edit index
     * Click the 3 dots in the top right corner of the edit index and change the view to be **Show Markers**
+      * If you use markers for other things besides timestamps then just use a specific color marker for timestamps and only show that color marker in the edit index before exporting
     * Right click your timeline in the **Media Pool** (most likely called **Timeline 1**)
     * Inside the right click menu navigate to **Timelines** > **Export** > **Edit Index**
     * Save the file as CSV with any name to the `file` folder in this repository
